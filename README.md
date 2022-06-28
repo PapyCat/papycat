@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working on **PowerShell and Docker Infrasctucture**
 
-- 🌱 I’m currently learning **pandas & git**
-
-- 👯 I’m looking to collaborate on **Web3**
-
 - 💬 Ask me about **Windows infrasctucture, servers / clients / debug**
 
 - 📫 How to reach me **valentin.coat@gmail.com**
